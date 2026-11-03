@@ -1,0 +1,5 @@
+project_id    = "REPLACE_WITH_YOUR_PROJECT_ID"
+region        = "us-central1"
+zone          = "us-central1-a"
+instance_name = "fs01"
+tester_email  = "REPLACE_WITH_YOUR_GOOGLE_ACCOUNT_EMAIL"

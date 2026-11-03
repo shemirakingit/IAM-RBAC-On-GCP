@@ -1,0 +1,9 @@
+terraform.tfvars
+*.tfvars
+!terraform.tfvars.example
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+*.tfplan
+IAM_Lab_Report.txt
